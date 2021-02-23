@@ -1,3 +1,3 @@
 Learning Resources
 
-dotNET [https://www.youtube.com/c/dotNET/videos]
+[dotNET - YT](https://www.youtube.com/c/dotNET/videos)
